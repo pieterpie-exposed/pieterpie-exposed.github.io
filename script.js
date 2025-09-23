@@ -1,5 +1,5 @@
 // Discord invite URL - replace with your actual Discord invite link
-const DISCORD_INVITE_URL = 'https://discord.gg/REPLACE-WITH-YOUR-INVITE-CODE';
+const DISCORD_INVITE_URL = 'https://discord.gg/vR7QAAPrch';
 
 // Get audio element
 const audio = document.getElementById('backgroundMusic');
